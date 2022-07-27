@@ -9,7 +9,7 @@
 - 💞️ **I’m looking to collaborate on:** anything awesome 😄
 - ♥️ **Hobbies**: Bastektball🏀 , Videogames🎮 , Fitness🏃 & Reading🎒
 - 💼 **Check out my portfolio at:** [somtookafor.herokuapp.com](https://somtookafor.herokuapp.com)
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/somtochukwu-okafor-3b04561a6/) & [Twitter](https://www.twitter.com/somtookafor_)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/somtochukwu-okafor-3b04561a6/) & [Twitter](https://www.twitter.com/somtookaforr)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somtookaforr&theme=dark&show_icons=true
 )](https://github.com/anuraghazra/github-readme-stats)
