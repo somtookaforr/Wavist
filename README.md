@@ -16,8 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somtookaforr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
 
 <!---
 Wavist/Wavist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
