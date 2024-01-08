@@ -8,7 +8,7 @@
 - 📚 **Libraries I've worked with:** Redux & React
 - 💞️ **I’m looking to collaborate on:** anything awesome 😄
 - ♥️ **Hobbies**: Bastektball🏀 , Videogames🎮 , Fitness🏃 & Reading🎒
-- 💼 **Check out my portfolio at:** [somtookafor.herokuapp.com](https://somtookafor.herokuapp.com)
+<!--- - 💼 **Check out my portfolio at:** [somtookafor.herokuapp.com](https://somtookafor.herokuapp.com) --->
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/somtochukwuokafor/) & [Twitter](https://www.twitter.com/somtookaforr)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somtookaforr&theme=dark&show_icons=true
