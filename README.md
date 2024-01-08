@@ -2,9 +2,9 @@
 
 - 👀 **I’m interested in:** IOT, cool techs & awesome websites
 
-- 🌱 **I’m currently learning:** React, Redux & Wordpress
+- 🌱 **I’m currently learning:** React Native, Typescript
 - 💻 **Languages I've worked with:** Php, Javascript, Html, EJS & CSS
-- 💻 **Frameworks I've worked with:** React.js, Bootstrap, SCSS, Materialize & Tailwind
+- 💻 **Frameworks & Toools I've worked with:** React.js, Bootstrap, SCSS, Materialize, Firebase & Tailwind
 - 📚 **Libraries I've worked with:** Redux & React
 - 💞️ **I’m looking to collaborate on:** anything awesome 😄
 - ♥️ **Hobbies**: Bastektball🏀 , Videogames🎮 , Fitness🏃 & Reading🎒
