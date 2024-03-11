@@ -4,8 +4,8 @@
 
 - 🌱 **I’m currently learning:** React Native, Typescript
 - 💻 **Languages I've worked with:** Php, Javascript, Html, EJS & CSS
-- 💻 **Frameworks & Toools I've worked with:** React.js, Bootstrap, SCSS, Materialize, Firebase & Tailwind
-- 📚 **Libraries I've worked with:** Redux & React
+- 💻 **Frameworks & Tools I've worked with:** React.js, Bootstrap, Vite, SCSS, Materialize, Firebase & Tailwind
+- 📚 **Libraries I've worked with:** Redux, Material UI
 - 💞️ **I’m looking to collaborate on:** anything awesome 😄
 - ♥️ **Hobbies**: Bastektball🏀 , Videogames🎮 , Fitness🏃 & Reading🎒
 <!--- - 💼 **Check out my portfolio at:** [somtookafor.herokuapp.com](https://somtookafor.herokuapp.com) --->
