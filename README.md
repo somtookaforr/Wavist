@@ -2,17 +2,16 @@
 
 - 👀 **I’m interested in:** IOT, cool techs & awesome websites
 
-- 🌱 **I’m currently learning:** React Native, Typescript
-- 💻 **Languages I've worked with:** Php, Javascript, Html, EJS & CSS
-- 💻 **Frameworks & Tools I've worked with:** React.js, Bootstrap, Vite, SCSS, Materialize, Firebase & Tailwind
-- 📚 **Libraries I've worked with:** Redux, Material UI
+- 🌱 **I’m currently learning:** Next.js
+- 💻 **Languages & Libraries I've worked with:** JavaScript, TypeScript, React, PHP, CSS, EJS & CSS
+- 💻 **Frameworks & Tools I've worked with:** Bootstrap, Vite, SCSS, Materialize, Firebase, Ant Design & Tailwind
+- 📚 **Libraries I've worked with:** React, Redux, Material UI
 - 💞️ **I’m looking to collaborate on:** anything awesome 😄
 - ♥️ **Hobbies**: Bastektball🏀 , Videogames🎮 , Fitness🏃 & Reading🎒
 <!--- - 💼 **Check out my portfolio at:** [somtookafor.herokuapp.com](https://somtookafor.herokuapp.com) --->
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/somtochukwuokafor/) & [Twitter](https://www.twitter.com/somtookaforr)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somtookaforr&theme=dark&show_icons=true
-)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somtookaforr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somtookaforr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
