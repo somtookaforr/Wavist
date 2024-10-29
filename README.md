@@ -3,6 +3,7 @@
 - 👀 **I’m interested in:** IOT, cool techs & awesome websites
 
 - 🌱 **I’m currently learning:** Next.js
+- 📝 **I write at:** [Dev.to](https://dev.to/somtookaforr) 
 - 💻 **Languages & Libraries I've worked with:** JavaScript, TypeScript, React, PHP, CSS, EJS & CSS
 - 💻 **Frameworks & Tools I've worked with:** Bootstrap, Vite, SCSS, Materialize, Firebase, Ant Design & Tailwind
 - 📚 **Libraries I've worked with:** React, Redux, Material UI
